@@ -1,3 +1,5 @@
-## This is my git tutorial :)
+# This is my git tutorial
 
-init-команда
+**Команды, используемые в git:**
+
+- *git init* - первая команда, нужна для создания репозитория
